@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<script>
+			async function callhostobject() {
+				document.getElementById("output").value = await window.chrome.webview.hostObjects.common.userName;
+			}
+		</script>
+	</head>
+
+	<body>
+		<input type="button" onclick= "callhostobject()" value="Call hostobject" />
+		output: <input type="text" id="output" disabled />
+	</body>
+</html>

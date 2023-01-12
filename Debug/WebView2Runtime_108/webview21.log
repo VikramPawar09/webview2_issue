@@ -1,0 +1,115 @@
+[22816:25296:0109/194828.545:VERBOSE1:webrtc_event_log_manager.cc(96)] WebRTC remote-bound event logging enabled.
+[22816:25296:0109/194828.553:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 5AAE0380: set chrome proxy config service to 5AA38800
+[22816:28240:0109/194828.587:VERBOSE1:media_stream_manager.cc(1104)] MSM::InitializeMaybeAsync([this=5AA9E880])
+[22816:28240:0109/194828.587:VERBOSE1:media_stream_manager.cc(1104)] MDM::MediaDevicesManager()
+[22816:28240:0109/194828.587:VERBOSE1:media_stream_manager.cc(1104)] MSM::MediaStreamManager([this=5AA9E880]))
+[22816:7608:0109/194828.593:VERBOSE1:chrome_browser_main.cc(732)] TryInitWindowTabManager start
+[22816:7608:0109/194828.593:VERBOSE1:edge_ui_features.cc(1663)] IsWindowTabManagerEnabled returning false for WebView.
+[22816:25296:0109/194828.595:VERBOSE1:install_util.cc(259)] No existing install found.
+[22816:25296:0109/194828.596:VERBOSE1:edge_share_features.cc(73)] IsEdgeShareEnhancedCopyPasteEnabled returning 1
+[22816:25296:0109/194828.596:VERBOSE1:wam_account_manager.cc(624)] wam_default_account_token_fetcher::StartFetchingTokenForImplicitSignin: Calling API
+[22816:25296:0109/194828.600:VERBOSE1:edge_share_features.cc(36)] IsEdgeShareEnabled returning 1
+[22816:25296:0109/194828.603:VERBOSE1:edge_share_features.cc(58)] IsEdgeShareEntryOnToolbar returning 0
+[22816:25296:0109/194828.625:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(311)] MutablePO2TS::MutablePO2TS
+[22816:25296:0109/194828.626:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 5AAE3800: set chrome proxy config service to 5AA3B300
+[22816:25296:0109/194828.629:VERBOSE1:edge_share_features.cc(73)] IsEdgeShareEnhancedCopyPasteEnabled returning 1
+[22816:25296:0109/194828.629:VERBOSE1:edge_share_features.cc(73)] IsEdgeShareEnhancedCopyPasteEnabled returning 1
+[22816:25296:0109/194828.629:VERBOSE1:device_event_log_impl.cc(217)] [19:48:28.629] Bluetooth: EVENT: bluetooth_api.cc:82 BluetoothAPI: 5AAC6900
+[22816:25296:0109/194828.629:VERBOSE1:gaia_auth_util.cc(48)] Canonicalized @gmail.com to @gmail.com
+[22816:25296:0109/194828.629:VERBOSE1:gaia_auth_util.cc(48)] Canonicalized @gmail.com to @gmail.com
+[22816:25484:0109/194828.629:VERBOSE1:token_service_table.cc(152)] Loaded tokens: result = 3 ; number of tokens loaded = 0
+[22816:25296:0109/194828.630:VERBOSE1:bluetooth_low_energy_event_router.cc(259)] Initializing BluetoothLowEnergyEventRouter.
+[22816:25296:0109/194828.634:WARNING:activity_log_policy.cc(68)] Scheduling init
+[22816:25296:0109/194828.634:WARNING:activity_log_policy.cc(68)] Scheduling init
+[22816:25296:0109/194828.639:VERBOSE1:extension_service.cc(1679)] AddComponentExtension Microsoft Edge PDF Viewer
+[22816:25296:0109/194828.640:VERBOSE1:extension_service.cc(1679)] AddComponentExtension Microsoft Clipboard Extension
+[22816:28240:0109/194828.641:VERBOSE1:content_verifier.cc(635)] OnFetchComplete mhjfbmdgcfjbbpaeojofohoefgiehjai success:0
+[22816:28240:0109/194828.641:VERBOSE1:content_verifier.cc(635)] OnFetchComplete dgiklkfkllikcanfonkcabmbdfmgleag success:0
+[22816:25296:0109/194828.641:VERBOSE1:account_reconcilor.cc(161)] AccountReconcilor::AccountReconcilor
+[22816:25296:0109/194828.641:VERBOSE1:account_reconcilor.cc(191)] AccountReconcilor::Initialize
+[22816:25296:0109/194828.641:VERBOSE1:profile_manager.cc(2649)] ForceSigninCheck: 0, 0, 1
+[22816:25296:0109/194828.641:VERBOSE1:sync_session_durations_metrics_recorder.cc(205)] UpdateSyncAndAccountStatus: new_sync_status: 1 new_account_status: 1
+[22816:25296:0109/194828.642:VERBOSE1:sync_session_durations_metrics_recorder.cc(66)] Ready to track Session.TotalDuration metrics
+[22816:25296:0109/194828.644:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 5AAE5940: set chrome proxy config service to 5B07AA00
+[22816:25296:0109/194828.645:VERBOSE1:hyphenation_component_installer.cc(164)] Registering Hyphenation component.
+[22816:25528:0109/194828.645:VERBOSE1:component_installer.cc(289)] StartRegistration for Edge AutoLaunch Protocols
+[22816:26644:0109/194828.645:VERBOSE1:component_installer.cc(289)] StartRegistration for CRLSet
+[22816:15932:0109/194828.645:VERBOSE1:component_installer.cc(289)] StartRegistration for Hyphenation
+[22816:16692:0109/194828.645:VERBOSE1:component_installer.cc(289)] StartRegistration for Origin Trials
+[22816:26360:0109/194828.646:VERBOSE1:component_installer.cc(289)] StartRegistration for Speech Recognition
+[22816:15932:0109/194828.646:VERBOSE1:component_installer.cc(289)] StartRegistration for Subresource Filter Rules
+[22816:25528:0109/194828.646:VERBOSE1:component_installer.cc(289)] StartRegistration for Trust Protection Lists
+[22816:26360:0109/194828.646:VERBOSE1:component_installer.cc(289)] StartRegistration for Widevine Content Decryption Module
+[22816:26360:0109/194828.647:VERBOSE1:component_installer.cc(276)] Preinstalled component found for Widevine Content Decryption Module at D:\Codebase\common_client\common_client\3rdParties\SampleSandboxBrowser\Debug\WebView2Runtime\WidevineCdm with version 4.10.2557.0.
+[22816:26360:0109/194828.647:VERBOSE1:component_installer.cc(289)] StartRegistration for Zxcvbn Data Dictionaries
+[22816:25528:0109/194828.648:VERBOSE1:component_installer.cc(276)] Preinstalled component found for Trust Protection Lists at D:\Codebase\common_client\common_client\3rdParties\SampleSandboxBrowser\Debug\WebView2Runtime\Trust Protection Lists with version 1.0.0.23.
+[22816:25296:0109/194828.649:ERROR:gpu_process_host.cc(1005)] GPU process launch failed: error_code=2
+[22816:25296:0109/194828.650:WARNING:gpu_process_host.cc(1367)] The GPU process has crashed 1 time(s)
+[22816:25296:0109/194828.652:ERROR:edge_auth_errors.cc(477)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: 0, Error string: 
+
+[22816:25296:0109/194828.653:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(557)] MutablePO2TS::OnWebDataServiceRequestDone. Result type: 6
+[22816:25296:0109/194828.654:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(610)] MutablePO2TS::LoadAllCredentialsIntoMemory; 0 redential(s).
+[22816:25296:0109/194828.654:VERBOSE1:sync_session_durations_metrics_recorder.cc(180)] OnRefreshTokensLoaded
+[22816:25296:0109/194828.654:VERBOSE1:sync_session_durations_metrics_recorder.cc(205)] UpdateSyncAndAccountStatus: new_sync_status: 1 new_account_status: 1
+[22816:25296:0109/194828.654:VERBOSE1:internet_explorer_session_host_pool_win.cc(22)] Session host list contains 0session.
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(443)] FinishRegistration for Hyphenation
+[22816:25296:0109/194828.655:VERBOSE1:component_updater_service.cc(135)] CrxUpdateService starting up. First update attempt will take place in 60 seconds. Next update attempt will take place in 18000 seconds. 
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(486)] Component ready, version 101.0.4906.0 in C:\Users\vpawar\AppData\Local\SBB\Cache\EBWebView\hyphen-data\101.0.4906.0
+[22816:25296:0109/194828.655:VERBOSE1:hyphenation_component_installer.cc(116)] Hyphenation Component ready, version 101.0.4906.0 in C:\Users\vpawar\AppData\Local\SBB\Cache\EBWebView\hyphen-data\101.0.4906.0
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(443)] FinishRegistration for CRLSet
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(486)] Component ready, version 6498.2022.11.1 in C:\Users\vpawar\AppData\Local\SBB\Cache\EBWebView\CertificateRevocation\6498.2022.11.1
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(443)] FinishRegistration for Edge AutoLaunch Protocols
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(486)] Component ready, version 1.0.0.8 in C:\Users\vpawar\AppData\Local\SBB\Cache\EBWebView\AutoLaunchProtocolsComponent\1.0.0.8
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(443)] FinishRegistration for Speech Recognition
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(486)] Component ready, version 1.15.0.1 in C:\Users\vpawar\AppData\Local\SBB\Cache\EBWebView\Speech Recognition\1.15.0.1
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(443)] FinishRegistration for Widevine Content Decryption Module
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(486)] Component ready, version 4.10.2557.0 in D:\Codebase\common_client\common_client\3rdParties\SampleSandboxBrowser\Debug\WebView2Runtime\WidevineCdm
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(443)] FinishRegistration for Origin Trials
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(486)] Component ready, version 0.0.1.4 in C:\Users\vpawar\AppData\Local\SBB\Cache\EBWebView\OriginTrials\0.0.1.4
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(443)] FinishRegistration for Zxcvbn Data Dictionaries
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(486)] Component ready, version 3.0.0.0 in C:\Users\vpawar\AppData\Local\SBB\Cache\EBWebView\ZxcvbnData\3.0.0.0
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(443)] FinishRegistration for Subresource Filter Rules
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(486)] Component ready, version 10.34.0.39 in C:\Users\vpawar\AppData\Local\SBB\Cache\EBWebView\Subresource Filter\Unindexed Rules\10.34.0.39
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(443)] FinishRegistration for Trust Protection Lists
+[22816:25296:0109/194828.655:VERBOSE1:component_installer.cc(486)] Component ready, version 1.0.0.23 in D:\Codebase\common_client\common_client\3rdParties\SampleSandboxBrowser\Debug\WebView2Runtime\Trust Protection Lists
+[22816:25296:0109/194828.667:ERROR:gpu_process_host.cc(1005)] GPU process launch failed: error_code=2
+[22816:25296:0109/194828.668:WARNING:gpu_process_host.cc(1367)] The GPU process has crashed 2 time(s)
+[22816:25296:0109/194828.669:VERBOSE1:widevine_cdm_component_installer.cc(140)] Register Widevine CDM with Chrome
+[22816:25296:0109/194828.670:VERBOSE1:embedded_browser_profile_impl.cc(178)] EmbeddedBrowserProfileImpl::GetOrCreateProfile: profile_name: , in_private_mode_enabled: 0
+[22816:25296:0109/194828.670:VERBOSE1:embedded_browser_profile_impl.cc(150)] OnProfileLoaded: create the instance for profile_path: C:\Users\vpawar\AppData\Local\SBB\Cache\EBWebView\Default, in_private_mode_enabled: 0
+[22816:25296:0109/194828.670:VERBOSE1:profile_manager.cc(1844)] AddKeepAlive(Default, kBrowserWindow). keep_alives=[kWaitingForFirstBrowserWindow (1), kBrowserWindow (1)]
+[22816:25296:0109/194828.670:VERBOSE1:profile_manager.cc(1898)] ClearFirstBrowserWindowKeepAlive(Default). keep_alives=[kBrowserWindow (1)]
+[22816:25296:0109/194828.698:VERBOSE1:followable_web_icon_view.cc(75)] FollowableWebIconView::FollowableWebIconView
+[22816:25296:0109/194828.736:VERBOSE1:embedded_browser_proxy_url_loader_factory.cc(335)] EmbeddedBrowserProxyURLLoaderFactory::MaybeProxyURLLoaderFactory: created proxy: 5B300850, type: 2
+[22816:25296:0109/194828.807:VERBOSE1:embedded_browser_proxy_url_loader_factory.cc(335)] EmbeddedBrowserProxyURLLoaderFactory::MaybeProxyURLLoaderFactory: created proxy: 5B302680, type: 2
+[22816:25296:0109/194828.807:VERBOSE1:embedded_browser_proxy_url_loader_factory.cc(335)] EmbeddedBrowserProxyURLLoaderFactory::MaybeProxyURLLoaderFactory: created proxy: 5B302530, type: 2
+[22816:25296:0109/194828.807:VERBOSE1:embedded_browser_proxy_url_loader_factory.cc(335)] EmbeddedBrowserProxyURLLoaderFactory::MaybeProxyURLLoaderFactory: created proxy: 5B3023E0, type: 2
+[22816:25296:0109/194828.807:VERBOSE1:embedded_browser_proxy_url_loader_factory.cc(335)] EmbeddedBrowserProxyURLLoaderFactory::MaybeProxyURLLoaderFactory: created proxy: 5B303090, type: 2
+[22816:25296:0109/194828.811:ERROR:gpu_process_host.cc(1005)] GPU process launch failed: error_code=2
+[22816:25296:0109/194828.812:WARNING:gpu_process_host.cc(1367)] The GPU process has crashed 3 time(s)
+[22816:25296:0109/194828.837:ERROR:gpu_process_host.cc(1005)] GPU process launch failed: error_code=2
+[22816:25296:0109/194828.844:WARNING:gpu_process_host.cc(1367)] The GPU process has crashed 4 time(s)
+[22816:25296:0109/194828.848:ERROR:gpu_process_host.cc(1005)] GPU process launch failed: error_code=2
+[22816:25296:0109/194828.849:WARNING:gpu_process_host.cc(1367)] The GPU process has crashed 5 time(s)
+[22816:25296:0109/194828.865:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 5B284B40: set chrome proxy config service to 5B3F4300
+[22816:25296:0109/194828.881:VERBOSE1:embedded_browser_proxy_url_loader_factory.cc(335)] EmbeddedBrowserProxyURLLoaderFactory::MaybeProxyURLLoaderFactory: created proxy: 5AA671E0, type: 0
+[22816:25296:0109/194828.882:VERBOSE1:mutable_profile_oauth2_token_service_delegate.cc(479)] MutablePO2TS::RefreshTokenIsAvailable
+[22816:28240:0109/194828.886:VERBOSE1:win_util.cc(1528)] Checking if internal user
+[22816:25296:0109/194828.886:ERROR:gpu_process_host.cc(1005)] GPU process launch failed: error_code=2
+[22816:25296:0109/194828.887:WARNING:gpu_process_host.cc(1367)] The GPU process has crashed 6 time(s)
+[23476:19104:0109/194828.910:VERBOSE1:configured_proxy_resolution_service.cc(1150)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[23476:19104:0109/194828.911:VERBOSE1:configured_proxy_resolution_service.cc(1150)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[23476:19104:0109/194828.912:VERBOSE1:configured_proxy_resolution_service.cc(1150)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[22816:25296:0109/194828.913:VERBOSE1:embedded_browser_proxy_url_loader_factory.cc(121)] EmbeddedBrowserProxyURLLoaderFactory::CreateLoaderAndStart,proxy: 5AA671E0, skipped for http://localhost:3000/#billing
+[22816:25296:0109/194828.913:VERBOSE1:personalized_data_collection_consent_state_manager_service.cc(138)] PersonalizedDataCollectionConsentStateManagerService::OnAccountInfoForSANcan_prompt : 1
+[23476:19104:0109/194828.913:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: http://localhost:3000/#billing
+[22816:25296:0109/194828.914:ERROR:gpu_process_host.cc(1005)] GPU process launch failed: error_code=2
+[22816:25296:0109/194828.914:WARNING:gpu_process_host.cc(1367)] The GPU process has crashed 7 time(s)
+[22816:25296:0109/194828.915:VERBOSE1:gaia_cookie_manager_service.cc(1056)] GaiaCookieManagerService::ListAccounts
+[23476:19104:0109/194828.916:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3
+[23476:19104:0109/194828.917:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://ping-edge.smartscreen.microsoft.com/api/browser/edge/actions/3
+[22816:25296:0109/194828.920:ERROR:gpu_process_host.cc(1005)] GPU process launch failed: error_code=2
+[22816:25296:0109/194828.920:WARNING:gpu_process_host.cc(1367)] The GPU process has crashed 8 time(s)
+[22816:25296:0109/194828.922:ERROR:gpu_process_host.cc(1005)] GPU process launch failed: error_code=2
+[22816:25296:0109/194828.922:WARNING:gpu_process_host.cc(1367)] The GPU process has crashed 9 time(s)
+[22816:25296:0109/194828.922:FATAL:gpu_data_manager_impl_private.cc(450)] GPU process isn't usable. Goodbye.

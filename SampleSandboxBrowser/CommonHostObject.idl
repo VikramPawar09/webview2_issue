@@ -1,0 +1,34 @@
+import "oaidl.idl";
+import "ocidl.idl";
+
+
+[uuid (FE44F958-D72C-4B14-844E-90B5568DCADE), version(1.0)]
+library CommonHostObjects
+{
+	[uuid(62C6C473-075B-4A42-A506-676A22F7F0D9), object, local]
+	interface ICommonHostObject : IUnknown
+	{
+		HRESULT LogInfo([in] BSTR text);
+		HRESULT LogWarning([in] BSTR text);
+		HRESULT LogDebug([in] BSTR text);
+		HRESULT LogError([in] BSTR text);
+		HRESULT DialogMethod([in] BSTR text);
+
+		HRESULT ExecuteAction([in] BSTR actionName, [in] BSTR payload);
+
+		//Properties
+		[propget] HRESULT UserName([out, retval] BSTR* userName);
+		[propget] HRESULT UserPassword([out, retval] BSTR* userPassword);
+		[propget] HRESULT UserCredentials([out, retval] BSTR* userCredentials);
+
+		// Demonstrate native calling back into JavaScript.
+		HRESULT CallCallbackAsynchronously([in] IDispatch* callbackParameter);
+	};
+
+	[uuid(64DBD606-9088-42DB-B39E-B3EAFBE2EDDD)]
+	coclass CommonHostObject
+	{
+		[default] interface ICommonHostObject;
+		interface IDispatch;
+	};
+}
